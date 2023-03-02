@@ -1,0 +1,18 @@
+1.
+создать репозиторий в github
+git clone и ссылка репозитрия из github
+2.
+создать папку
+git init
+git add .
+git commit -m "описание коммита"
+создаем репозиториий в git hub
+git remote add origin "ссылка на репозиторий"
+git branch -M main
+git push -u main
+3.
+git pull
+4.
+git status-есть ли изменения и отслеживание файла
+git log-историю действий
+git remote-проверяет связан ли github
